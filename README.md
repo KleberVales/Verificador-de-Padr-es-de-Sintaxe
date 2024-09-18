@@ -1,0 +1,1 @@
+# Verificador-de-Padr-es-de-Sintaxe
